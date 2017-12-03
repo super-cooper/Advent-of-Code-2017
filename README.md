@@ -5,3 +5,4 @@ skills with these problem sets.
 
 * __December 1<sup>st</sup>__: [Inverse CAPTCHA](December01/)
 * __December 2<sup>nd</sup>__: [Corruption Checksum](December02/)
+* __December 3<sup>rd</sup>__: [Spiral Memory](December03/)
