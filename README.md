@@ -1,8 +1,9 @@
 # Advent of Code 2017
-These are my solutions for the Advent of Code 2017 calendar. I'm doing these just for
-fun in my (minimal) spare time. I will also admit that I'm practicing my code golf
+These are my solutions for the Advent of Code 2017 calendar.  I will
+admit that I'm practicing my [code golf](https://en.wikipedia.org/wiki/Code_golf)
 skills with these problem sets.
 
 * __December 1<sup>st</sup>__: [Inverse CAPTCHA](December01/)
 * __December 2<sup>nd</sup>__: [Corruption Checksum](December02/)
 * __December 3<sup>rd</sup>__: [Spiral Memory](December03/)
+* __December 4<sup>th</sup>__: [High-Entropy Passphrases](December04/)
