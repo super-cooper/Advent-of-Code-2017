@@ -7,3 +7,4 @@ skills with these problem sets.
 * __December 2<sup>nd</sup>__: [Corruption Checksum](December02/)
 * __December 3<sup>rd</sup>__: [Spiral Memory](December03/)
 * __December 4<sup>th</sup>__: [High-Entropy Passphrases](December04/)
+* __December 5<sup>th</sup>__: [A Maze of Twisty Trampolines, All Alike](December05/)
