@@ -8,3 +8,4 @@ skills with these problem sets.
 * __December 3<sup>rd</sup>__: [Spiral Memory](December03/)
 * __December 4<sup>th</sup>__: [High-Entropy Passphrases](December04/)
 * __December 5<sup>th</sup>__: [A Maze of Twisty Trampolines, All Alike](December05/)
+* __December 6<sup>th</sup>__: [Memory Reallocation](December06/)
