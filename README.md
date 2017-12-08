@@ -10,3 +10,4 @@ skills with these problem sets.
 * __December 5<sup>th</sup>__: [A Maze of Twisty Trampolines, All Alike](December05/)
 * __December 6<sup>th</sup>__: [Memory Reallocation](December06/)
 * __December 7<sup>th</sup>__: [Recursive Circus](December07/)
+* __December 8<sup>th</sup>__: [I Heard You Like Registers](December08/)
