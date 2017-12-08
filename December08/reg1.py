@@ -12,12 +12,7 @@ funcs = {
     '!=':  (lambda x, y: x != y)
 }
 for inst in insts:
-    mod = inst[0]
-    cmd = inst[1]
-    num = int(inst[2])
-    oth = inst[4]
-    boo = inst[5]
-    chk = int(inst[6])
+    mod, cmd, num, oth, boo, chk = inst[0], inst[1], int(inst[2]), inst[4], inst[5], int(inst[6])
     if mod not in regs:
         regs[mod] = 0
     if oth not in regs:
