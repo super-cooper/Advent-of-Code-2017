@@ -11,3 +11,4 @@ skills with these problem sets.
 * __December 6<sup>th</sup>__: [Memory Reallocation](December06/)
 * __December 7<sup>th</sup>__: [Recursive Circus](December07/)
 * __December 8<sup>th</sup>__: [I Heard You Like Registers](December08/)
+* __December 9<sup>th</sup>__: [Stream Processing](December09/)
