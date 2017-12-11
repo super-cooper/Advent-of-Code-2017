@@ -13,3 +13,4 @@ skills with these problem sets.
 * __December 8<sup>th</sup>__: [I Heard You Like Registers](December08/)
 * __December 9<sup>th</sup>__: [Stream Processing](December09/)
 * __December 10<sup>th</sup>__: [Knot Hash](December10/)
+* __December 11<sup>th</sup>__: [Hex Ed](December11/)
