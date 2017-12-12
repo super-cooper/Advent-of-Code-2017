@@ -14,3 +14,4 @@ skills with these problem sets.
 * __December 9<sup>th</sup>__: [Stream Processing](December09/)
 * __December 10<sup>th</sup>__: [Knot Hash](December10/)
 * __December 11<sup>th</sup>__: [Hex Ed](December11/)
+* __December 12<sup>th</sup>__: [Digital Plumber](December12/)
