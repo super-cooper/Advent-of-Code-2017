@@ -15,3 +15,4 @@ skills with these problem sets.
 * __December 10<sup>th</sup>__: [Knot Hash](December10/)
 * __December 11<sup>th</sup>__: [Hex Ed](December11/)
 * __December 12<sup>th</sup>__: [Digital Plumber](December12/)
+* __December 13<sup>th</sup>__: [Packet Scanners](December13/)
