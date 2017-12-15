@@ -17,3 +17,4 @@ skills with these problem sets.
 * __December 12<sup>th</sup>__: [Digital Plumber](December12/)
 * __December 13<sup>th</sup>__: [Packet Scanners](December13/)
 * __December 14<sup>th</sup>__: [Disk Defragmentation](December14/)
+* __December 15<sup>th</sup>__: [Dueling Generators](December15/)
