@@ -1,4 +1,4 @@
-# Day 14: Disk Defragmentation
+# Disk Defragmentation
 Suddenly, a scheduled job activates the system's
 [disk defragmenter](https://en.wikipedia.org/wiki/Defragmentation).
 Were the situation different, you might
