@@ -1,4 +1,4 @@
-## Day 13: Packet Scanners
+## Packet Scanners
 You need to cross a vast __firewall__. The firewall consists of several
 layers, each with a __security scanner__ that moves back and forth across
 the layer. To succeed, you must not be detected by a scanner.
