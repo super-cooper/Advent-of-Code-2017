@@ -1,4 +1,4 @@
-# Day 12: Digital Plumber
+# Digital Plumber
 
 Walking along the memory banks of the stream, you find a small
 village that is experiencing a little confusion: some programs can't
