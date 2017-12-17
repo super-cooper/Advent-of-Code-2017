@@ -18,4 +18,5 @@ skills with these problem sets.
 * __December 13<sup>th</sup>__: [Packet Scanners](December13/)
 * __December 14<sup>th</sup>__: [Disk Defragmentation](December14/)
 * __December 15<sup>th</sup>__: [Dueling Generators](December15/)
-* __December 16<sup>th</sup>__: [Permutation Promenade](December16)
+* __December 16<sup>th</sup>__: [Permutation Promenade](December16/)
+* __December 17<sup>th</sup>__: [Spinlock](December17/)
