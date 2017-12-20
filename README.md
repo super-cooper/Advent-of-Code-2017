@@ -20,3 +20,4 @@ skills with these problem sets.
 * __December 15<sup>th</sup>__: [Dueling Generators](December15/)
 * __December 16<sup>th</sup>__: [Permutation Promenade](December16/)
 * __December 17<sup>th</sup>__: [Spinlock](December17/)
+* __December 18<sup>th</sup>__: [Duet](December18/)
