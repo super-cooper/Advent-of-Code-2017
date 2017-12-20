@@ -6,7 +6,7 @@ i, sent, regs, funcs = [0, 0], 0, ({'p': 0}, {'p': 1}), {
     "add": (lambda x, y: x + y), "mul": (lambda x, y: x * y), "mod": (lambda x, y: x % y)
 }
 q, waiting, p = ([], []), [False, False], 1
-while i[0] < len(insts) and i[1] < len(insts) and not (waiting[p] and waiting[p - 1]):
+while i[0] < len(insts) and i[1] < len(insts) and not (waiting[p] and waiting[1 - p]):
     p = 1 - p
     inst = insts[i[p]]
     func, mod, other = inst[0], int(inst[1]) if inst[1].lstrip('-').isdigit() else inst[1], \
