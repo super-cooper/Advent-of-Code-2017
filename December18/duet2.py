@@ -1,4 +1,4 @@
-from sys import stdin, exit
+from sys import stdin
 insts = [line.strip().split() for line in stdin.readlines()]
 i, sent, regs, funcs = [0, 0], 0, ({'p': 0}, {'p': 1}), {
     0: (lambda f, pid, x, y: funcs[f](funcs[1](x, pid), funcs[1](y, pid))),
