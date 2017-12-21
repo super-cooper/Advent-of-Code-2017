@@ -22,3 +22,4 @@ skills with these problem sets.
 * __December 17<sup>th</sup>__: [Spinlock](December17/)
 * __December 18<sup>th</sup>__: [Duet](December18/)
 * __December 19<sup>th</sup>__: [A Series of Tubes](December19/)
+* __December 20<sup>th</sup>__: [Particle Swarm](December20/)
