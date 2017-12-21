@@ -23,6 +23,6 @@ for _ in range(5):
             for i, row in enumerate(rules[p]):
                 if y * len(rules[p]) + i >= len(enhanced):
                     enhanced.append('')
-                enhanced[y * len(rules[tuple(p)]) + i] = enhanced[y * len(rules[p]) + i] + row
+                enhanced[y * len(rules[p]) + i] += row
     img = enhanced
 print(sum(s.count('#') for s in img))
