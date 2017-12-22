@@ -24,3 +24,4 @@ skills with these problem sets.
 * __December 19<sup>th</sup>__: [A Series of Tubes](December19/)
 * __December 20<sup>th</sup>__: [Particle Swarm](December20/)
 * __December 21<sup>st</sup>__: [Fractal Art](December21/)
+* __December 22<sup>nd</sup>__: [Sporifica Virus](December22/)
