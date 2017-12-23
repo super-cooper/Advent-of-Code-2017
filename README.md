@@ -25,3 +25,4 @@ skills with these problem sets.
 * __December 20<sup>th</sup>__: [Particle Swarm](December20/)
 * __December 21<sup>st</sup>__: [Fractal Art](December21/)
 * __December 22<sup>nd</sup>__: [Sporifica Virus](December22/)
+* __December 23<sup>rd</sup>__: [Coprocessor Conflagration](December23/)
