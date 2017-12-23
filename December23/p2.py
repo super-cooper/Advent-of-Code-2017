@@ -19,9 +19,7 @@ while i < len(insts):
         regs[mod] = funcs[0](func, mod, other)
     i += 1
     if mod == 'f':
-        p = regs['b']
-        q = regs['c']
-        v = -int(insts[len(insts) - 2][2])
+        p, q, v = regs['b'], regs['c'], -int(insts[len(insts) - 2][2])
         break
 for r in range(p, q + 1, v):
     for i in range(2, r):
