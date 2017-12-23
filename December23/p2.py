@@ -11,9 +11,7 @@ while i < len(insts):
         (int(inst[2]) if inst[2].lstrip('-').isdigit() else regs[inst[2]]) if len(inst) > 2 else None
     if type(mod) is str and mod not in regs:
         regs[mod] = 0
-    if func == "mul":
-        regs[mod] = funcs[0](func, mod, other)
-    elif func == "set":
+    if func == "set":
         regs[mod] = funcs[1](other)
     elif func == "jnz":
         i += 0 if funcs[1](mod) == 0 else funcs[1](other) - 1
