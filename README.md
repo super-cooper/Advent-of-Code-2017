@@ -26,3 +26,4 @@ skills with these problem sets.
 * __December 21<sup>st</sup>__: [Fractal Art](December21/)
 * __December 22<sup>nd</sup>__: [Sporifica Virus](December22/)
 * __December 23<sup>rd</sup>__: [Coprocessor Conflagration](December23/)
+* __December 24<sup>th</sup>__: [Electromagnetic Moat](December24/)
