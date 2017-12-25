@@ -6,11 +6,11 @@ for j, line in enumerate(instructions):
     if line.startswith('In'):
         state = line[-2]
         machine[state] = [[], []]
-        for head in (0, 1):
-            machine[state][head].append(find_int(instructions[j + 1]))
-            machine[state][head].append(find_int(instructions[j + 2]))
-            machine[state][head].append(1 if instructions[j + 3].endswith('right.') else -1)
-            machine[state][head].append(instructions[j + 4].replace('.', '')[-1])
+        for t in (0, 1):
+            machine[state][t].append(find_int(instructions[j + 1]))
+            machine[state][t].append(find_int(instructions[j + 2]))
+            machine[state][t].append(1 if instructions[j + 3].endswith('right.') else -1)
+            machine[state][t].append(instructions[j + 4].replace('.', '')[-1])
             j += 4
 for _ in range(stop):
     if head not in tape:
