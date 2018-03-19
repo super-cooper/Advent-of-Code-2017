@@ -1,2 +1,9 @@
+# Python
 .idea/
 venv/
+
+# C
+CMakeLists.txt
+cmake-build-debug/
+*.so
+*.o
