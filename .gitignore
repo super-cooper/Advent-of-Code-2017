@@ -2,7 +2,7 @@
 .idea/
 venv/
 
-# C
+# C++
 CMakeLists.txt
 cmake-build-debug/
 *.so
