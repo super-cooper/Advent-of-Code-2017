@@ -6,4 +6,3 @@ venv/
 CMakeLists.txt
 cmake-build-debug/
 *.so
-*.o
